@@ -1,0 +1,14 @@
+{
+    "name": "bidyanda/bidya-bidya",
+    "authors": [
+        {
+            "name": "bidyanda"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "BidyaBidya": "src/"
+        }
+    }
+}
